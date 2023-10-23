@@ -7,7 +7,7 @@ https://youtu.be/pFVV-cahsBc
 <video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
 
 ## 5th attempt
-[![Watch the video](https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard.png)](https://youtu.be/vt5fpE0bzSY) 
+[![Watch the video](https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard.png)](https://youtu.be/pFVV-cahsBc) 
 
 
 
