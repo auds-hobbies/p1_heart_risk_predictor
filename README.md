@@ -10,4 +10,4 @@ https://youtu.be/pFVV-cahsBc
 and then my newly created channel 
 
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/pFVV-cahsBc)
+[![Watch the video]](https://youtu.be/pFVV-cahsBc)
