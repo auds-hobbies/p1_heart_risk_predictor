@@ -10,6 +10,8 @@ For this project, we created:
 To be completed...
 - Machine learning binary class classification
 
+### Article 
+Click on the link below to read our blog post on this web app.
 
 ### Video 
 Click on the picture below to view the video:
