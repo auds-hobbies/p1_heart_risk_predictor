@@ -1,5 +1,4 @@
-# p1_heart_risk_predictor
-#### A heart risk predictor
+# A Heart Risk Predictor
 How would you like to predict a heart-related issue before it occurs? Here goes our AI-powered Heart Risk Predictor. 
 
 For this project, we created:
