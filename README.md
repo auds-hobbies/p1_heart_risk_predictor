@@ -6,12 +6,12 @@ For this project, we created:
 - an <b>Excel Dashboard</b> for data visualization; and
 - a <b>Power BI Dashboard</b> for data visualization.
 
-## Data Science / Machine Learning Techniques
+### Data Science / Machine Learning Techniques
 To be completed...
 - Machine learning binary class classification
 
 
-## Video 
+### Video 
 Click on the picture below to view the video:
 
 
