@@ -3,7 +3,7 @@ How would you like to predict a heart-related issue before it occurs? Here goes 
 
 For this project, we created:
 - a <b>Heart Risk Predictor (web app)</b> using Django, HTML, and CSS;
-- an <b>Excel Dashboard</b> for data visualization; and
+- an interactive <b>Excel Dashboard</b> for data visualization; and
 - a <b>Power BI Dashboard</b> for data visualization.
 
 ### Data Science / Machine Learning Techniques
