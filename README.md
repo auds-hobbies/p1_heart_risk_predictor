@@ -20,6 +20,10 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
 
 
 - Interactive Power BI Dashboard:
+<img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="128"/> 
+- ?
+- ?
+- 
 https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png 
 
 
