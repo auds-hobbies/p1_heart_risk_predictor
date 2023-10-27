@@ -19,7 +19,8 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
 [![Watch the video](https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png)](https://youtu.be/pFVV-cahsBc) 
 
 
-
+- Interactive Power BI Dashboard:
+https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png 
 
 
 
