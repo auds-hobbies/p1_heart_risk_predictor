@@ -1,7 +1,7 @@
 # A Heart Risk Predictor
 How would you like to predict a heart-related issue before it occurs? Here goes our AI-powered Heart Risk Predictor. 
 
-For this project, we created:
+For this project, I created:
 - a <b>Heart Risk Predictor (web app)</b> using Django, HTML, and CSS;
 - an interactive <b>Excel Dashboard</b> for data visualization; and
 - a <b>Power BI Dashboard</b> for data visualization.
