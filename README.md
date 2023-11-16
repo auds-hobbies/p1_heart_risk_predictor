@@ -16,7 +16,7 @@ Click on the link below to read our blog post on this web app.
 ### Video 
 Click on the picture below to view a video of the Excel Dashboard, Power BI Dashboard, and Heart Risk Predictor web app:
 
-[![Watch the video](https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png)](https://youtu.be/pFVV-cahsBc) 
+[![Watch the video](https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png)](https://youtu.be/v=0VrLLymaOQA) 
 
 
 - Interactive Power BI Dashboard:
