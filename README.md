@@ -22,10 +22,6 @@ Click on the picture below to view a video of the Excel Dashboard, Power BI Dash
 - Interactive Power BI Dashboard:
 <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png " width="728"/> 
 
-test remove
-[![Watch the video](https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png)](https://www.youtube.be/v=pFVV-cahsBc) 
 
-
-https://youtu.be/pFVV-cahsBc
 
 [![Watch the video](https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png)](https://www.youtube.com/watch?v=0VrLLymaOQA)
